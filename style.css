@@ -1,0 +1,42 @@
+* {
+    color: lightgrey;
+}
+
+body {
+    background-color: #121212;
+    color: grey;
+}
+
+h2 {
+    font-family: Orbitron;
+    color: purple;
+}
+
+.focim {
+    margin: 20px 0px;
+}
+
+.film-box {
+    background-color: #1e1e1e;
+    border-radius: 3%;
+    box-shadow: 6px 6px rgb(56, 56, 56);
+    padding: 10px;
+}
+
+.film-box:hover {
+    box-shadow: 10px 10px rgb(56, 56, 56);    
+}
+
+img {
+    width: 100%;
+    border-radius: 2%;
+}
+
+.btn {
+    background-color: purple;
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(73, 1, 73);
+}
